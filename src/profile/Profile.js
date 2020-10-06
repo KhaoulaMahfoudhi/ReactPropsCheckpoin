@@ -13,7 +13,7 @@ function Profile(props) {
     <div>
       <h1 style={StyleObjecttxt}>
         {" "}
-        my name is  {props.fullName} <br /> {props.bio} <br /> And right now, I'am
+        my name is  <span id="gear">{props.fullName}</span> <br /> {props.bio} <br /> And right now, I'am
         a {props.profession}{" "}
       </h1>
       <h1 style={StyleObjecttxt}>

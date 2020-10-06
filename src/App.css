@@ -24,4 +24,9 @@
   border-bottom: 5px solid #fee715ff;
   height: 50px;
 }
+#gear {
+  font-size: 1.8rem;
+  color: #fee715ff;
+  font-weight: bold;
+}
 
